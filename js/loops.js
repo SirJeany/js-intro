@@ -1,5 +1,5 @@
 'use strict';
-
+// While loop implementation:
 console.log("------START------");
 
 let num = 0;
@@ -9,6 +9,8 @@ while(num <= 10) {
 }
 
 console.log("------END-------")
+
+// for loop (note that the loops seem similar at first, but output is different)
 console.log("------START------");
 
 num = 0;
